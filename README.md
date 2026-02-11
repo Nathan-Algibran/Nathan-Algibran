@@ -1,60 +1,73 @@
-# Hi 👋, I'm Nathan Algibran
+# Nathan Algibran
 
-💻 Web Developer | Laravel Enthusiast | Frontend & Backend  
-🚀 Passionate about building clean and functional web applications  
-
----
-
-## 🧠 About Me
-
-- 🔭 Currently working on web development projects
-- 🌱 Learning more about Full Stack Development
-- 💬 Ask me about Laravel, PHP, HTML, CSS, JavaScript
-- 📫 Reach me at: your-email@example.com
+Full Stack Web Developer specializing in modern web technologies and scalable application architecture.
 
 ---
 
-## 🛠 Tech Stack
+## Professional Summary
 
-### 💻 Frontend
-- HTML
-- CSS
-- JavaScript
+I am a Full Stack Developer with strong experience in backend development using Laravel and modern frontend development using Next.js. 
 
-### ⚙ Backend
+I focus on building secure, high-performance, and maintainable web applications with clean architecture and efficient system design.
+
+---
+
+## Technical Expertise
+
+### Backend Development
 - PHP
 - Laravel
+- RESTful API Development
 - MySQL
+- Authentication & Authorization (JWT / Sanctum)
 
-### 🔧 Tools
+### Frontend Development
+- Next.js
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+
+### Tools & Workflow
 - Git & GitHub
+- Postman
+- Composer & NPM
 - VS Code
-- XAMPP / Laragon
+- Deployment & Basic Server Configuration
 
 ---
 
-## 📊 GitHub Stats
+## What I Build
 
-![Nathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&theme=tokyonight)
+- Custom Web Applications
+- SaaS Platforms
+- REST API Services
+- Company Profile & Business Websites
+- E-Commerce Integrations
+- Full Stack Laravel + Next.js Applications
 
 ---
 
-## 🌐 Let's Connect
+## Development Approach
 
-- LinkedIn: (isi link kamu)
-- Portfolio: (isi kalau ada)
+- Clean and maintainable code
+- Scalable system architecture
+- Security-first mindset
+- Performance optimization
+- Clear documentation
 
-<!--
-**Nathan-Algibran/Nathan-Algibran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAMEKAMU&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAMEKAMU&layout=compact&hide_border=true)
+
+---
+
+## Contact
+
+- Email: nalgibran14@gmail.com  
+- LinkedIn: (https://www.linkedin.com/in/muhammad-nathan-algibran-6b1430322/)  
+- Portfolio: (your portfolio URL)
