@@ -1,47 +1,50 @@
-<h1 align="center">Hi 👋, I'm Nathan Algibran</h1>
+<!-- ================= HEADER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3F8CFF,100:6C63FF&height=200&section=header&text=Nathan%20Algibran&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+Scalable+Web+Applications;Clean+Architecture+Enthusiast;Performance+%26+Security+Focused" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=3F8CFF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Scalable+Web+Applications;Clean+Architecture+Enthusiast;Performance+%26+Security+Focused" />
 </p>
 
-<h3 align="center">
-Full Stack Developer focused on building scalable, secure, and high-performance web applications with clean architecture and efficient system design.
-</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nathan-algibran&label=Profile%20Views&color=3F8CFF&style=flat" alt="profile views" />
+</p>
 
 ---
 
-### 🚀 About Me
+# 👨‍💻 About Me
 
-- 🔭 Currently working on **Modern Web Applications & Scalable Digital Solutions**
-- 🌱 Continuously learning **Advanced Web Technologies & Software Architecture**
-- 👯 Open to collaborate on **Web Projects & Open Source Initiatives**
-- 🤝 Interested in **System Architecture & Performance Optimization**
-- 💬 Ask me about **Full Stack Development, API Integration & Web Performance**
-- 📫 Reach me at **nalgibran14@gmail.com**
-- 🌐 Portfolio:  
-  👉 https://nalgibran-portfolio-nine.vercel.app/
+Full Stack Developer focused on building scalable, secure, and high-performance web applications.  
+I prioritize clean architecture, maintainability, and efficient system design.
+
+- 🔭 Currently working on modern web applications  
+- 🌱 Continuously learning software architecture & system design  
+- 🤝 Open for collaboration on impactful projects  
+- 💬 Ask me about Full Stack Development & API Integration  
+- 📫 Reach me at: **nalgibran14@gmail.com**  
+- 🌐 Portfolio: https://nalgibran-portfolio-nine.vercel.app/
 
 ---
 
-### 🌍 Connect with Me
+# 🌍 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-nathan-algibran" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
 
 ---
 
-### 🛠 Languages & Tools
+# 🛠 Tech Stack
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,php,vue,mysql,firebase,tailwind,figma,git" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,php,vue,mysql,firebase,tailwind,figma,git" />
 </p>
 
 ---
 
-### 📊 GitHub Activity
+# 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nathan-algibran&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -54,6 +57,24 @@ Full Stack Developer focused on building scalable, secure, and high-performance 
 
 ---
 
-### ⚡ Professional Philosophy
+# 🕹 Contribution Graph (Pacman Animation)
 
-> Clean architecture, performance optimization, and maintainable code are the foundation of every successful digital product.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+# ⚡ Professional Philosophy
+
+> Clean architecture and performance-driven development are the foundation of every successful digital product.
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:3F8CFF&height=120&section=footer"/>
