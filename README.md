@@ -57,7 +57,7 @@ I prioritize clean architecture, maintainability, and efficient system design.
 
 ---
 
-# 🕹 Contribution Graph (Pacman Animation)
+# 🕹 Contribution Graph 
 
 <p align="center">
   <picture>
