@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nathan Algibran</h1>
-<h3 align="center">I am a Full Stack Developer with strong experience in backend development using Laravel and modern frontend development using Next.js. I focus on building secure, high-performance, and maintainable web applications with clean architecture and efficient system design.</h3>
+<h3 align="center">I am a Full Stack Developer with strong experience in building modern web applications across both backend and frontend environments. I focus on developing secure, high-performance, and maintainable systems with clean architecture and efficient design principles.</h3>
 
 - 🔭 I’m currently working on **Modern Web Applications and scalable digital solutions l & Next.js**
 
