@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nathan Algibran</h1>
 <h3 align="center">I am a Full Stack Developer with strong experience in backend development using Laravel and modern frontend development using Next.js. I focus on building secure, high-performance, and maintainable web applications with clean architecture and efficient system design.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathan-algibran&label=Profile%20views&color=0e75b6&style=flat" alt="nathan-algibran" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathan-algibran" alt="nathan-algibran" /></a> </p>
-
 - 🔭 I’m currently working on **Modern Web Applications and scalable digital solutions l & Next.js**
 
 - 🌱 I’m currently learning **Advanced web technologies, software architecture, and best development practices**
@@ -27,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammad nathan algibran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad nathan algibran" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
