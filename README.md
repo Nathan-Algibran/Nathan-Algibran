@@ -29,7 +29,7 @@ I prioritize clean architecture, maintainability, and efficient system design.
 # 🌍 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/muhammad-nathan-algibran" target="blank">
+<a href="https://www.linkedin.com/in/muhammad-nathan-algibran-6b1430322/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
